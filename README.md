@@ -41,24 +41,24 @@ Please freel free to point out errors, corrections, improvements, etc.
 4. [Paging: Page Allocation](page_allocation.md)
 5. [Paging: Kernel Page Directory](paging_kernel.md)
 6. [Paging: User Space and Processes](paging_user.md)
-7. Devices: Multiprocessing (optional)
-8. Devices: Interrupt Controllers (optional)
+7. [Devices: Multiprocessing (optional)](multiprocessing.md)
+8. [Devices: Interrupt Controllers (optional)](interrupt_controllers.md)
 9. [Processes](processes.md)
 10. [Scheduling](scheduling.md)
 11. [It's a Trap!](traps.md)
 12. [System Calls: Routing](syscalls_routing.md)
 13. [System Calls: Processes](syscalls_processes.md)
-14. Devices: Serial Port and Console Drivers (optional)
-15. Devices: Keyboard Driver (optional)
+14. [Devices: Serial Port and Console Drivers (optional)](serial_console.md)
+15. [Devices: Keyboard Driver (optional)](keyboard_driver.md)
 16. [Sleep-Locks](sleep_locks.md)
 17. [Devices: Disk Driver](disk.md)
-18. File System: Lower Layers
-19. File System: Upper Layers
-20. System Calls: Files
-21. User Space: The First Process
-22. User Space: The Shell
-23. User Space: C Library (optional)
-24. User Space: Programs (optional)
+18. [File System: Lower Layers](file_system_lower.md)
+19. [File System: Upper Layers](file_system_upper.md)
+20. [System Calls: Files](syscalls_files.md)
+21. [User Space: The First Process](first_process.md)
+22. [User Space: The Shell](shell.md)
+23. [User Space: C Library (optional)](c_library.md)
+24. [User Space: Programs (optional)](user_programs.md)
 
 ## Roadmap
 
